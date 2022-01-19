@@ -1,4 +1,4 @@
-from datetime import datetime
+from datetime1 import datetime
 class Birthday(object):
     def Friends(self,number_of_birthdays):
         current_date=datetime.now().date()
